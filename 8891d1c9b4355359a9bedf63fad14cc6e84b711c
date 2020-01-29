@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1580302203 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_oneplus_sdm845-common\nnonce 1580302203-2B78AF4CE60834B432D97993EDC998E2111AEBDC\n\n0000000000000000000000000000000000000000 8891d1c9b4355359a9bedf63fad14cc6e84b711c refs/for/mkq-mr1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl4xf3sACgkQ8iL05i7N\nJTFzVwf/Vc39Hpady4545p85SMacHl2wGVnNlA0wM28R1SNZCSNgvuAi7y8nLGbc\nj8aw40BxmP9XpNeiGZAg/1YF5hj4xfKLILQhebUZd294lqK1dueFe0zxyegxY/vw\nAlmdhCo3kJ3ePREhKtfh+2mSG83N0a0tJx2QVFXYln3XgiKeGLabbPc7lBR6jfaX\nPcus+FfmlkXlsE6RRf2okLUJwQXOovYwUBJ1is+K4whv1zF/2rKAv/ns6vD5rh7N\neqakP4Mz7XbgQCredfvEpoPoldE0fhGQkrIGqmZrXjkJ/fHWVnp0yvkEq4bCeXUF\nHNeZmbR1EXAbKIn5XoFak5gTRRoEcw\u003d\u003d\n\u003dMjRr\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
